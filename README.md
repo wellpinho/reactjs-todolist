@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./src/assets/logo.svg" height="100px" alt="Next Controll"/>
-</div>
-
 ![Home page](./01.png)
 
 <div align="center">
