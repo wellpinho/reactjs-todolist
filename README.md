@@ -35,5 +35,5 @@ Developed on the Ignite trail [Rocketseat](https://www.rocketseat.com.br/).
 
 [Portifolio](https://wellpinho.com)  
 [LinkedIn](https://linkedin.com/in/wellpinho) <br>
-wellpinho@outlook.com
-[+55 48 9883-34573](https://api.whatsapp.com/send?phone=55554898833453&text=Yes%2C%20shall%20we%20have%20a%20coffee%3F)
+wellpinho@outlook.com <br>
+[+55 48 9883-34573](https://api.whatsapp.com/send?phone=554898833453&text=Yes%2C%20shall%20we%20have%20a%20coffee%3F)
