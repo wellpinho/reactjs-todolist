@@ -1,5 +1,12 @@
+import Header from "./components/header";
+import "./styles/global.scss";
+
 function App() {
-  return <h1>Todo list</h1>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 }
 
 export default App;
